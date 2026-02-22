@@ -73,15 +73,4 @@ The UML diagram is available in the repository.
 
 ## Project Report
 
-The detailed project report (IEEE format) is available in the `docs/` folder.
-
-## Contributors
-
-- Cihangir Emre Er
-- Burak Kaynakçıoğlu
-
-## Academic Information
-
-Course: Programming Laboratory I  
-Department: Computer Engineering  
-University: Kocaeli University
+The detailed project report (IEEE format) is available the name `` .
