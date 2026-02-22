@@ -73,4 +73,4 @@ The UML diagram is available in the repository.
 
 ## Project Report
 
-The detailed project report (IEEE format) is available the name `` .
+The detailed project report (IEEE format) is available the name `rapor.pdf` .
